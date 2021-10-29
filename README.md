@@ -19,3 +19,12 @@ In the project directory, you can run:
 ## Playing youtube videos
 
 ![image](https://user-images.githubusercontent.com/25336029/139505571-7c609ac0-35c9-4f3b-a915-baaef46380cf.png)
+
+## Selecting suggested videos on the right handside
+
+![image](https://user-images.githubusercontent.com/25336029/139505746-f2b1b350-dc94-418d-907f-56a5760e0866.png)
+
+## Now you can keep watching youtube from the app
+
+![image](https://user-images.githubusercontent.com/25336029/139505813-58ea202f-626e-40c0-950a-5feb7b5b7eb3.png)
+
